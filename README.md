@@ -25,19 +25,19 @@ This project answers the key business question:
 - Repeat buyers are more likely to subscribe
 
 ## Repository Structure
-├── Python_customer_behavior_analysis.ipynb                     # Data cleaning notebook
+├── Python_customer_behavior_analysis.ipynb                        # Data cleaning notebook
 
-├── SQL_Analysis_Customer_Behaviour.sql                         # SQL queries and results
+├── SQL_Analysis_Customer_Behaviour.sql                            # SQL queries and results
 
-├── Dashbaord_customer_behaviour_Analysis.pbix                  # Power BI dashboard file
+├── Dashbaord_customer_behaviour_Analysis.pbix                     # Power BI dashboard file
 
-├── Problem_Statement.pdf                                       # Business problem
+├── Problem_Statement.pdf                                          # Business problem
 
-├── Report_Customer_Shopping_Behaviour_Analysis.pdf             # Final project report
+├── Report_Customer_Shopping_Behaviour_Analysis.pdf                # Final project report
 
-├── Presentation_Customer-Shopping-Behaviour-Analysis.pptx      # Stakeholder presentation
+├── Presentation_Customer-Shopping-Behaviour-Analysis.pptx         # Stakeholder presentation
 
-├── input_customer_shopping_behavior.csv                        # input data
+├── input_customer_shopping_behavior.csv                           # input data
 
 └── README.md
 
