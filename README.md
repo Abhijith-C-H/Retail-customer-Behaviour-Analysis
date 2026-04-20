@@ -26,11 +26,18 @@ This project answers the key business question:
 
 ## Repository Structure
 ├── Python_customer_behavior_analysis.ipynb                     # Data cleaning notebook
+
 ├── SQL_Analysis_Customer_Behaviour.sql                         # SQL queries and results
+
 ├── Dashbaord_customer_behaviour_Analysis.pbix                  # Power BI dashboard file
+
 ├── Problem_Statement.pdf                                       # Business problem
+
 ├── Report_Customer_Shopping_Behaviour_Analysis.pdf             # Final project report
+
 ├── Presentation_Customer-Shopping-Behaviour-Analysis.pptx      # Stakeholder presentation
+
 ├── input_customer_shopping_behavior.csv                        # input data
+
 └── README.md
 
